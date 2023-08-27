@@ -1,2 +1,2 @@
 # ml-course-projects
-these are the ml models built while taking the ml classes in my college
+These are the ml models built during the ml course I took in my college
